@@ -1,2 +1,3 @@
-# templates
+# Templates
+
 Convenient templates for Jupyter notebooks.
